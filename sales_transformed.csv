@@ -1,0 +1,6 @@
+id,product_name,category,quantity,price,sale_date,total_sales
+2,Phone,Electronics,5,500.0,2025-01-03,2500.0
+1,Laptop,Electronics,2,800.0,2025-01-01,1600.0
+5,Headphones,Electronics,4,120.0,2025-01-07,480.0
+4,Chair,Furniture,3,85.0,2025-01-06,255.0
+3,Desk,Furniture,1,150.0,2025-01-05,150.0
